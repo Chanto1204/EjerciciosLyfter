@@ -2,7 +2,7 @@
     {
         "name": "Pikachu",
         "type": "Electric",
-        "level": 54,
+        "level": 60,
         "weight_kg": 6.0,
         "is_shiny": false
     },
