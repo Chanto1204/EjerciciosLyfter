@@ -1,6 +1,6 @@
 list_a = ["first_name","last_name", "role"]
 
-list_b = ["Sebastian","Miranda","Software Engineer"]
+list_b = ["Sebastian","Chanto","Software Engineer"]
 
 my_dictionary = {}
 
