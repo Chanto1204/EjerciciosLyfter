@@ -31,8 +31,8 @@ person_2 = Person("Juan")
 person_3 = Person("Pedro")
 
 bus_passenger.add_passenger(person_1)
-bus_passenger. add_passenger(person_2)
-bus_passenger. add_passenger(person_3)
+bus_passenger.add_passenger(person_2)
+bus_passenger.add_passenger(person_3)
 
 bus_passenger.remove_passenger()
 
