@@ -24,7 +24,7 @@ class SavingsAccount(BankAccount):
         if self.balance - new_withdraw >= self.min_balance:
             self.balance = self.balance - new_withdraw
         else:
-            print("No puedo retirar tanto dinero")
+            raise ValueError("El retiro supera el saldo mínimo permitido")
 
 
 
